@@ -1,0 +1,15 @@
+{
+  "name": "sequelizeorm",
+  "version": "1.0.0",
+  "description": "Projeto de Estudo Sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Guilherme Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.5.1",
+    "sequelize": "^6.3.5"
+  }
+}
